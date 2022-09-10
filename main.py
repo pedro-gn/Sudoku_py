@@ -8,7 +8,7 @@ stable.close
 tb = SudokuTable(tablel)
 
 
-
+tb.printTable()
 
 
 
